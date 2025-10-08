@@ -1,6 +1,6 @@
 
 
-# Bible CLI
+# Bible CLI 
 
 A simple command-line tool that displays Bible verses directly in your terminal.
 
@@ -52,7 +52,7 @@ that whoever believes in him shall not perish but have eternal life."
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, open an issue first to discuss your idea.
+Pull requests are welcome. For major changes, open an issue first to discuss your idea. God Bless You....
 
 
 
